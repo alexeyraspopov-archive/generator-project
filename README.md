@@ -1,4 +1,4 @@
-# generator-project [![Build Status](https://secure.travis-ci.org/alexeyraspopov/generator-project.png?branch=master)](https://travis-ci.org/alexeyraspopov/generator-project)
+# generator-project
 
 > [Yeoman](http://yeoman.io) generator
 
@@ -26,7 +26,7 @@ Yeoman travels light. He didn't pack any generators when he moved in. You can th
 To install generator-project from npm, run:
 
 ```
-$ npm install -g generator-project
+$ npm install -g alexeyraspopov/generator-project
 ```
 
 Finally, initiate the generator:
