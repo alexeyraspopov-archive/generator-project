@@ -1,12 +1,20 @@
-# <%= _.capitalize(projectName) %>
+# <%= projectName %>
 
 <%= description %>
 
 ## Install
 
- * via [npm](https://npmjs.org) `npm install <%= projectName %>`
- * via [component](http://component.io) `component install <%= projectName %>`
- * via [bower](http://bower.io) `bower install <%= projectName %>`
+```bash
+npm install <%= projectName %>
+```
+
+```bash
+component install <%= author %>/<%= projectName %>
+```
+
+```bash
+bower install <%= projectName %>
+```
 
 ## API
 
