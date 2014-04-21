@@ -5,15 +5,15 @@
 ## Install
 
 ```bash
-npm install <%= projectName %>
+$ npm install <%= projectName %>
 ```
 
 ```bash
-component install <%= author %>/<%= projectName %>
+$ component install <%= author %>/<%= projectName %>
 ```
 
 ```bash
-bower install <%= projectName %>
+$ bower install <%= projectName %>
 ```
 
 ## API
